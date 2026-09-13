@@ -359,9 +359,21 @@ Refresh the dataset and explore interactive dashboards.
 
 📍 MUMBAI, India
 
-\---
+Aspiring Data Analyst
 
-⭐ If you found this project useful, consider giving it a star and sharing feedback.
+🔗 GitHub: https://github.com/deep-gaikwad
 
-📊 **Data Analytics | Business Intelligence | Data-Driven Decisions**
+🔗 LinkedIn: https://www.linkedin.com/in/deepgaikwad/
 
+---
+
+**Skills:**  
+Excel | SQL | Python | Power BI | Data Analysis
+
+---
+
+## ⭐ Conclusion
+
+Thank you for visiting this project! ⭐
+
+⭐ If you find this project useful, feel free to star the repository!
